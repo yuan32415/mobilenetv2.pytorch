@@ -1,0 +1,2 @@
+# mobilenetv2.pytorch
+基于mmsegmentation的mobilenetv2模型
